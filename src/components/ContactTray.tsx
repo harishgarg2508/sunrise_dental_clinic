@@ -18,10 +18,10 @@ interface ContactTrayProps {
 
 const ContactTray = ({ type, doctorData, isOpen, onClose }: ContactTrayProps) => {
   const developerData = {
-    whatsapp: "https://wa.me/1234567890", // Placeholder
-    website: "https://developer-website.com", // Placeholder
-    twitter: "https://twitter.com/developer", // Placeholder
-    linkedin: "https://linkedin.com/in/developer", // Placeholder
+    whatsapp: "https://wa.me/7876215235", // Placeholder
+    website: "https://harishgarg.tech", // Placeholder
+    twitter: "https://linkedin.com/in/harishgarg2508", // Placeholder
+    linkedin: "https://linkedin.com/in/harishgarg2508", // Placeholder
   };
 
   const contacts = type === 'doctor' && doctorData ? [
