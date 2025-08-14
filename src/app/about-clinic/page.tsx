@@ -131,7 +131,7 @@ export default function AboutClinic() {
                     <span>Call for Directions</span>
                   </a>
                   <a
-                    href="https://maps.google.com/?q=Gali+No+7,+Near+Shishu+Niketan+School,+Nayagaon,+Chandigarh,+Punjab+160103"
+                    href="https://maps.google.com/?q=Sunrise+Dental+Clinic+and+Implant+centre,+Nayagaon,+Chandigarh,+Punjab+160103"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center justify-center space-x-2 bg-white border-2 border-[#54CAD3] text-[#54CAD3] px-6 py-3 rounded-lg hover:bg-[#54CAD3] hover:text-white transition-all duration-200"
@@ -152,7 +152,7 @@ export default function AboutClinic() {
               {/* Google Maps Embed */}
               <div className="rounded-2xl overflow-hidden shadow-2xl">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3430.123456789012!2d76.7234567890123!3d30.7234567890123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390fed123456789a%3A0x1234567890123456!2sNayagaon%2C%20Chandigarh!5e0!3m2!1sen!2sin!4v1234567890123!5m2!1sen!2sin"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d703.7284190644693!2d76.78960138346214!3d30.78103614984567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ff3c6b2600b4b%3A0xc99d5c307bcfa5e0!2sSunrise%20dental%20clinic%20and%20implant%20centre!5e0!3m2!1sen!2sin!4v1755192576227!5m2!1sen!2sin"
                   width="100%"
                   height="400"
                   style={{ border: 0 }}
