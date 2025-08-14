@@ -57,7 +57,7 @@ export default function Appointment() {
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        access_key: process.env.WEB3FORMS_ACCESS_KEY || 'YOUR_WEB3FORMS_ACCESS_KEY',
+        access_key: process.env.NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY || 'YOUR_WEB3FORMS_ACCESS_KEY',
         subject: 'New Appointment Booking - Dr. Suraj Sharma Dental Clinic',
         from_name: 'Dental Clinic Website',
         ...data,
